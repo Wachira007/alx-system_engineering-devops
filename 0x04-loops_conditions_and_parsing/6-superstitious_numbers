@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # Display numbers 1-20 or bad luck
 
-i = 0
+i=0
 while ((i++ < 20))
 do
 	echo $i
