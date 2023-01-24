@@ -1,0 +1,1 @@
+A script running Apache on a web server and makes it respond to queries
